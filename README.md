@@ -6,8 +6,8 @@ author: anuchandy
 
 #Getting Started with Compute - Manage Virtual Machines In Parallel - in .Net #
 
-      Azure Compute sample for managing virtual machines -
-       - Create N virtual machines in parallel
+          Azure Compute sample for managing virtual machines -
+           - Create N virtual machines in parallel
 
 
 ## Running this Sample ##
