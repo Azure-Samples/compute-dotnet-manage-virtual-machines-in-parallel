@@ -1,0 +1,4 @@
+C:\Sources\dotnet-samples\compute-dotnet-manage-virtual-machines-in-parallel\bin\Debug\net452\ManageVirtualMachinesInParallel.runtimeconfig.json
+C:\Sources\dotnet-samples\compute-dotnet-manage-virtual-machines-in-parallel\bin\Debug\net452\ManageVirtualMachinesInParallel.runtimeconfig.dev.json
+C:\Sources\dotnet-samples\compute-dotnet-manage-virtual-machines-in-parallel\obj\Debug\net452\ManageVirtualMachinesInParallel.csproj.ManageVirtualMachinesInParallel.exe.config
+C:\Sources\dotnet-samples\compute-dotnet-manage-virtual-machines-in-parallel\obj\Debug\net452\ManageVirtualMachinesInParallel.csproj.CoreCompileInputs.cache
