@@ -4,15 +4,15 @@ languages:
 - csharp
 products:
 - azure
-services: Compute
-platforms: dotnet
-author: yaohaizh
+extensions:
+- services: Compute
+- platforms: dotnet
 ---
 
 # Getting started on managing virtual machines in parallel in C# #
 
-          Azure Compute sample for managing virtual machines -
-           - Create N virtual machines in parallel
+ Azure Compute sample for managing virtual machines -
+  - Create N virtual machines in parallel
 
 
 ## Running this Sample ##
