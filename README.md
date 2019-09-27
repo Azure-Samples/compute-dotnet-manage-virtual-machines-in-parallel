@@ -10,13 +10,13 @@ extensions:
 description: "Azure Compute sample for managing virtual machines."
 ---
 
-# Getting started on managing virtual machines in parallel in C# #
+# Getting started on managing virtual machines in parallel in C#
 
  Azure Compute sample for managing virtual machines -
   - Create N virtual machines in parallel
 
 
-## Running this Sample ##
+## Running this Sample
 
 To run this sample:
 
@@ -30,7 +30,7 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 
     bin\Debug\net452\ManageVirtualMachinesInParallel.exe
 
-## More information ##
+## More information
 
 [Azure Management Libraries for C#](https://github.com/Azure/azure-sdk-for-net/tree/Fluent)
 [Azure .Net Developer Center](https://azure.microsoft.com/en-us/develop/net/)
